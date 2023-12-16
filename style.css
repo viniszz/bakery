@@ -3,6 +3,7 @@ body {
     padding: 0;
     overflow-x: hidden;
     background-color: rgb(240, 230, 220);
+    zoom: 1.5;
 }
 
 #background {
